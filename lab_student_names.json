@@ -1,9 +1,13 @@
 {
   "students": [
-      {
-          "name": "maika",
-          "github": "MaikaFrann"
-      },
+    {
+		 "name": "Osvaldo",
+		 "github": "Obeltran3"
+    },
+    {
+      "name": "maika",
+      "github": "MaikaFrann"
+    },
     {
       "name": "Emily",
       "github": "pawtell"
