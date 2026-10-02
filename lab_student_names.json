@@ -1,5 +1,9 @@
 {
   "students": [
+      {
+          "name": "maika",
+          "github": "MaikaFrann"
+      },
     {
       "name": "Emily",
       "github": "pawtell"
