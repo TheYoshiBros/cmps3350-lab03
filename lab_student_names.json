@@ -1,10 +1,9 @@
 {
   "students": [
-      {
-          "name":"lea",
-          "github": "Jamalea123-fall26"
-      },
-
+    {
+      "name":"lea",
+       "github": "Jamalea123-fall26"
+    },
     {
       "name": "12019",
       "github": "redageddon"
@@ -40,6 +39,10 @@
     {
       "name": "ly",
       "github": "ly-fall26"
+    },
+    {
+      "name": "Angel Cortes",
+      "github": "CoderAngelPro"
     },
     {
       "name": "student-name",
